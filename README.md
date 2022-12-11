@@ -1,3 +1,3 @@
-# assignment_on_tools_for_DS
+# assignments_on_Coursera_Data_Science
 
 #practice lab on python course
